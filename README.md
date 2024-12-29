@@ -33,5 +33,4 @@ QQ：1501076885
 ---
 在默认情况下，您不需要更改任何参数，直接右键以管理员身份运行本软件并最小化即可，本软件会自动进行操作。
 
-![软件主要界面](https://github.com/717021/JiYuKiller/raw/master/main.jpg)
-![软件主要界面](https://github.com/717021/JiYuKiller/raw/master/full.jpg)
+
